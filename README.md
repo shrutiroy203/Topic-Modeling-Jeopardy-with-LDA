@@ -2,7 +2,7 @@
 
 ## Approach to Topic Modeling for this project:
 
-Data: Questions from the game Jeopardy! for the past 30 years
+Data: Questions from the game Jeopardy! over the past 30 years
 
 Objective: Analyse how the topics of the Jeopardy questions changed over the years
 
